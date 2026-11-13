@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:161B22,100:16A36A&height=220&section=header&text=DAVID%20PERNETT&fontSize=44&fontColor=E6EDF3&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%26%20SYSTEMS%20INTEGRATION&descSize=13&fontAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="David Pernett — Software Developer"/>
+<img src="https://raw.githubusercontent.com/davidpernett19/davidpernett19/main/assets/profile-banner.svg" width="100%" alt="David Pernett — Software Developer"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=16A36A&center=true&vCenter=true&width=720&lines=Building+software+that+solves+real+problems;Backend+%7C+Frontend+%7C+APIs+%7C+Automation;Connecting+applications%2C+data+and+devices" alt="Animated developer introduction"/>
@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/Software_Development-16A36A?style=flat-square&logo=github&logoColor=E6EDF3"/>
 <img src="https://img.shields.io/badge/Systems_Integration-161B22?style=flat-square&logo=databricks&logoColor=16A36A"/>
-<img src="https://img.shields.io/badge/Automation-161B22?style=flat-square&logo= dependabot&logoColor=16A36A"/>
+<img src="https://img.shields.io/badge/Automation-161B22?style=flat-square&logo=workflow&logoColor=16A36A"/>
 
 </div>
 
@@ -224,13 +224,16 @@ Some related projects and source code are private. Their implementation details 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davidpernett19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A36A&icon_color=16A36A&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpernett19&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A36A&text_color=E6EDF3" alt="Most used languages"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=davidpernett19&hide_border=true&background=0D1117&ring=16A36A&fire=16A36A&currStreakLabel=16A36A&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Contribution streak"/>
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=davidpernett19&hide_border=true&background=0D1117&ring=16A36A&fire=16A36A&currStreakLabel=16A36A&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Contribution streak"/>
+<a href="https://github.com/davidpernett19?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_repositories-16A36A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/davidpernett19?tab=overview">
+<img src="https://img.shields.io/badge/View_GitHub_activity-161B22?style=for-the-badge&logo=github&logoColor=16A36A" alt="View GitHub activity"/>
+</a>
 
 </div>
 
